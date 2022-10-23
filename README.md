@@ -22,6 +22,7 @@
 - [Storybook Deployer](https://github.com/storybookjs/storybook-deployer)
 - [Tailwind](https://tailwindcss.com/)
 - [Radix-UI](https://www.radix-ui.com/)
+- [Vite](https://vitejs.dev/)
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
