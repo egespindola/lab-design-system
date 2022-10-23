@@ -4,7 +4,7 @@
 
 # Lab React
 
-[Rocketseat] (https://www.youtube.com/c/RocketSeat) event.
+[Rocketseat](https://www.youtube.com/c/RocketSeat) event.
 
 > Design System with Figma, Storybook, Tailwind and React.
 
